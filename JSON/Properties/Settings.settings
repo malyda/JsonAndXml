@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="JSON.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="JSON_DB_Path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">json.json</Value>
+    </Setting>
+    <Setting Name="XML_DB_Path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">xml.xml</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

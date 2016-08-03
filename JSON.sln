@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSON", "JSON\JSON.csproj", "{65D23E5B-85A0-4D8D-B8A6-FD2C298160EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65D23E5B-85A0-4D8D-B8A6-FD2C298160EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D23E5B-85A0-4D8D-B8A6-FD2C298160EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D23E5B-85A0-4D8D-B8A6-FD2C298160EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D23E5B-85A0-4D8D-B8A6-FD2C298160EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://bluf.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = JSON\\JSON.csproj
+		SccProjectName1 = JSON
+		SccLocalPath1 = JSON
+	EndGlobalSection
+EndGlobal
