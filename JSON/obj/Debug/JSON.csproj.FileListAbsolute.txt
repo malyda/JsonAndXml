@@ -7,3 +7,11 @@ C:\Users\Bluf\Source\Workspaces\Pracovní prostor2\Datove struktury\JSON\JSON\ob
 C:\Users\Bluf\Source\Workspaces\Pracovní prostor2\Datove struktury\JSON\JSON\bin\Debug\Resources\json.json
 C:\Users\Bluf\Source\Workspaces\Pracovní prostor2\Datove struktury\JSON\JSON\bin\Debug\Resources\xml.xml
 C:\Users\Bluf\Source\Workspaces\Pracovní prostor2\Datove struktury\JSON\JSON\bin\Debug\JSON.exe.config
+R:\Nová složka\JsonAndXml\JSON\bin\Debug\JSON.exe.config
+R:\Nová složka\JsonAndXml\JSON\obj\Debug\JSON.exe
+R:\Nová složka\JsonAndXml\JSON\obj\Debug\JSON.pdb
+R:\Nová složka\JsonAndXml\JSON\bin\Debug\JSON.exe
+R:\Nová složka\JsonAndXml\JSON\bin\Debug\JSON.pdb
+R:\Nová složka\JsonAndXml\JSON\bin\Debug\Newtonsoft.Json.dll
+R:\Nová složka\JsonAndXml\JSON\bin\Debug\Newtonsoft.Json.xml
+R:\Nová složka\JsonAndXml\JSON\obj\Debug\JSON.csprojResolveAssemblyReference.cache
